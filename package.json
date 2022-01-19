@@ -1,0 +1,21 @@
+{
+  "name": "imas-theme",
+  "displayName": "imas-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IM@S Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/imas-theme-light.json"
+      }
+    ]
+  }
+}
