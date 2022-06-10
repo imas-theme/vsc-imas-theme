@@ -14,7 +14,12 @@
       {
         "label": "IM@S Theme Light",
         "uiTheme": "vs",
-        "path": "./themes/imas-theme-light.json"
+        "path": "./themes/imas-theme-light-color-theme.json"
+      },
+      {
+        "label": "IM@S Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/imas-theme-dark-color-theme.json"
       }
     ]
   }
